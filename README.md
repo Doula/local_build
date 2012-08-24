@@ -1,3 +1,5 @@
+###Overview
+
 This project will build and start doula and bambino on a macbook pro with iTerm 2.  It does the following:
 
 * makes a virtualenv
@@ -21,7 +23,7 @@ then it runs an applescript that
 Installation happens relative to where you run the `setup.sh`, the instructions below run it from `~/Sites/doula`, but you can run it anywhere.
 
     mkdir ~/Sites/doula
-    git clone 
+    git clone git@github.com:Doula/local_build.git
     ./setup.sh
     
   
