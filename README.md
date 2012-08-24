@@ -1,6 +1,6 @@
 ###Overview
 
-This project will build and start doula and bambino on a macbook pro with iTerm 2.  It does the following:
+This project will build and start [doula](https://github.com/Doula/Doula) and [bambino](https://github.com/Doula/Bambino) on a macbook pro with iTerm 2.  It does the following:
 
 * makes a virtualenv
 * activates it
