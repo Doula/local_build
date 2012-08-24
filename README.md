@@ -7,7 +7,7 @@ This project will build and start [doula](https://github.com/Doula/Doula) and [b
 * pip installs doula and bambino to `src/doula` and `src/bambino`
 * creates an `/opt/webapp` dir
 * creates a `/etc/supervisor/conf.d` dir
-* chowns both
+* `chown`s both
 * loops through all the appenvs in [fake appenvs](http://code.corp.surveymonkey.com/doula)
 * clones them
 * inits and pulls the `etc` project
