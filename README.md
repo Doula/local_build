@@ -5,7 +5,7 @@ This project will build and start [doula](https://github.com/Doula/Doula) and [b
 * makes a virtualenv
 * activates it
 * pip installs doula and bambino to `src/doula` and `src/bambino`
-* creates a webapp dir
+* creates an `/opt/webapp` dir
 * creates a supervisor dir
 * chowns both
 * loops through all the appenvs in [fake appenvs](http://code.corp.surveymonkey.com/doula)
