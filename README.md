@@ -1,3 +1,10 @@
+###Requirements
+
+* Mac Computer
+* iTerm2
+* Google Chrom
+* A good tude
+
 ###Overview
 
 This project will build and start [doula](https://github.com/Doula/Doula) and [bambino](https://github.com/Doula/Bambino) on a macbook pro with iTerm 2.  It does the following:
