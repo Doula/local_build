@@ -34,4 +34,7 @@ do
 done
 
 popd
+
+redis-server
+
 osascript start_sessions.scpt $(pwd)
